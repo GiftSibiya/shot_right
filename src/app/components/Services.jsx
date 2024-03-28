@@ -13,7 +13,7 @@ import temperaturePng from "../../../public/assets/icons/icons8-temperature-low-
 // Main
 const Services = () => {
   return (
-    <section className="flex justify-center w-[100%] h-[500px] my-[50px]">
+    <section className="flex justify-center w-[100%] h-[500px] my-[50px] ">
       <div className="flex flex-col items-center w-[90%]">
         <h3 className="text-center text-gray-600 font-bold text-[20px]">
           Categories
